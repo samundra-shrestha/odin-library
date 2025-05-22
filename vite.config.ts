@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
-  base: '/odin-library/',
+  base: '/odin-library/', 
   plugins: [
     tailwindcss(),
   ],
