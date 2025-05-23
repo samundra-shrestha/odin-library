@@ -1,5 +1,6 @@
 {
   "name": "library",
+  "homepage": "https://samundra-shrestha.github.io/odin-library/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
